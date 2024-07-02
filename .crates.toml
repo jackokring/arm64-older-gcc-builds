@@ -1,0 +1,5 @@
+[v1]
+"eza 0.18.20 (registry+https://github.com/rust-lang/crates.io-index)" = ["eza"]
+"just 1.29.1 (registry+https://github.com/rust-lang/crates.io-index)" = ["just"]
+"starship 1.19.0 (registry+https://github.com/rust-lang/crates.io-index)" = ["starship"]
+"uiua 0.11.1 (registry+https://github.com/rust-lang/crates.io-index)" = ["uiua"]
